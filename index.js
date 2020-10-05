@@ -1,4 +1,4 @@
-function add() {
+function add(2, 3) {
 
 }
 function subtract() {
